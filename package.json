@@ -1,0 +1,23 @@
+{
+  "name": "hash2colors",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "2.5.1",
+    "express": "^4.9.8",
+    "forever": "^0.15.2",
+    "forever-monitor": "^1.7.0",
+    "mongodb": "^2.2.5",
+    "pg": "^6.0.3",
+    "pg-promise": "^5.2.6",
+    "sleep": "^3.0.1",
+    "twitter": "^1.3.0"
+  },
+  "engines": {
+    "node": "4.1.1"
+  }
+}
